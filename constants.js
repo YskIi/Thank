@@ -1,0 +1,2 @@
+const API_KEY = 'AIzaSyCGZImKMuiMaA2y5Wo_5j7tarSy630j3KU';
+const SHEET_ID = '1i96BWMvmt1vewKpHAlkEbA2GT0MdB2QoZ2Gha0oD7NE';
